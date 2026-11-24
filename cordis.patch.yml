@@ -1,0 +1,4 @@
+# dsh-statusbar bundle patch: inserts the independent status-bar plugin row.
+- insert:
+    - id: statusbar
+      name: 'dsh-statusbar'
